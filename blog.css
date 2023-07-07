@@ -1,0 +1,26 @@
+/* h2{
+    color: chartreuse;
+   
+} */
+/* 
+a:link {
+    color: chocolate;
+    color: aqua;
+    padding: 20px;
+} */
+
+a:visited {
+    color: aqua;
+
+}
+
+a:hover {
+    color: brown;
+    font-weight: bold;
+    text-decoration: underline dotted;
+}
+
+/* a:active {
+    background-color: black;
+    font-style: italic;
+} */
